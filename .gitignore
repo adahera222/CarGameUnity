@@ -1,6 +1,8 @@
 obj/
 bin/
 Temp/
+Library/metadata/
+Assets/~AlternatePhysicsModel/
 
 
 
@@ -8,8 +10,6 @@ Temp/
 ## Eclipse
 #################
 
-*.pydevproject
-.project
 .metadata
 bin/
 tmp/
